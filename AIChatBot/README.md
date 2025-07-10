@@ -21,9 +21,6 @@ javac -d bin src/ChatBotTrainer.java src/ChatBotGUI.java
 # Run
 java -cp bin ChatBotGUI
 
-## Screenshots
-<img width="786" height="961" alt="image" src="https://github.com/user-attachments/assets/0c2f5a41-3802-4a14-b8ac-d1bea37692ae" />
 
-
-## 🎓 About
+# 🎓 About
 Created by P Harshitha as part of the CodeAlpha Internship
